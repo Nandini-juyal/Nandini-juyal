@@ -65,12 +65,12 @@
 
 ---
 
-### 📜Current Focus
-Learning: Data Science & AI/ML Projects
-Working on: Building Portfolio Projects with Real Datasets
-Exploring: Machine Learning algorithms, AI-driven applications 
-Goal: Building industry-ready projects and gaining real-world experience
+### 📜 Current Focus
 
+- **Learning:** Data Science & AI/ML Projects  
+- **Working on:** Building Portfolio Projects with Real Datasets  
+- **Exploring:** Machine Learning Algorithms & AI-driven Applications  
+- **Goal:** Building industry-ready projects and gaining real-world experience
 ---
 <!--
 ### 📊 GitHub Stats
