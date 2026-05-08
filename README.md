@@ -73,13 +73,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandini-juyal&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-juyal&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Nandini-juyal&color=blue&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Nandini-juyal?style=flat-square&color=blue&label=Followers)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=flat-square)
 
 ---
 
 <p align="center">
   <i>"Turning data into decisions, one insight at a time."</i>
 </p>
+
+
