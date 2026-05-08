@@ -1,4 +1,4 @@
-##<!-- GitHub Profile README — Nandini Juyal -->
+<!-- GitHub Profile README — Nandini Juyal -->
 
 <h1 align="center">Hi, I'm Nandini Juyal 👋</h1>
 
