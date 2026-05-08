@@ -1,16 +1,85 @@
-## Hi there 👋
+##<!-- GitHub Profile README — Nandini Juyal -->
 
-<!--
-**Nandini-juyal/Nandini-juyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Nandini Juyal 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Aspiring Data Analyst</b> • BCA Student @ VIPS, IP University, Delhi • CGPA: 9.31
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/nandini-juyal-7b502133b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:juyalnandini28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nandini-juyal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 First-year BCA student with a **9.31 CGPA** passionate about data science and analytics
+- 🔍 I love digging into datasets to find patterns that drive real business decisions
+- 🐍 Skilled in **Python, SQL, and data visualization** using Pandas, NumPy, Matplotlib & Seaborn
+- 🌱 Currently learning: Machine Learning fundamentals & Power BI
+- 📫 Reach me at **juyalnandini28@gmail.com**
+- 🚀 Open to **data analyst internship** opportunities
+
+---
+
+### 🛠️ Skills & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c9be8?style=flat-square)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 📊 [Customer Churn EDA](https://github.com/Nandini-juyal/Customer_Churn_EDA) | Analyzed 7,000+ telecom customer records to uncover 4 key churn drivers. Insights help businesses reduce customer loss. | Python, Pandas, Seaborn |
+| 🎬 [Qalaa Films Website](https://github.com/Nandini-juyal/Qalaa_films) | Built a multi-page responsive portfolio website for a film production brand from scratch. | HTML, CSS, JavaScript |
+
+---
+
+### 📜 Certifications
+
+- 🏅 **IBM SkillsBuild** — From Learner to Builder: Become an AI Agent
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandini-juyal&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-juyal&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning data into decisions, one insight at a time."</i>
+</p>
