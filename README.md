@@ -65,12 +65,14 @@
 
 ---
 
-### 📜 Certifications
-
-- 🏅 **IBM SkillsBuild** — From Learner to Builder: Become an AI Agent
+### 📜Current Focus
+Learning: Data Science & AI/ML Projects
+Working on: Building Portfolio Projects with Real Datasets
+Exploring: Machine Learning algorithms, AI-driven applications 
+Goal: Building industry-ready projects and gaining real-world experience
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nandini-juyal&color=blue&style=flat-square&label=Profile+Views)
@@ -78,7 +80,7 @@
 ![Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=flat-square)
 
 ---
-
+-->
 <p align="center">
   <i>"Turning data into decisions, one insight at a time."</i>
 </p>
